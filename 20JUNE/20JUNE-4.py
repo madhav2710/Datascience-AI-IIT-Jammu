@@ -26,3 +26,19 @@ elif A.isalnum() and B.isalnum():
 else:
     print("Inputs are not ")
 
+print("End of program")
+
+
+a="madhav123"
+print(a.isdigit())
+print(a.isalpha())
+print(a.isalnum())
+print(a.capitalize())
+print(a.upper())
+print(a.isspace())
+print(a.islower())
+print(a.isupper())
+print(a.isnumeric())
+print(a.isdecimal())
+print(a.isidentifier())
+print(a.isprintable())
